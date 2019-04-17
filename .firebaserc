@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "devas-io"
+  },
+  "targets": {
+    "devas-io": {
+      "hosting": {
+        "api-2": [
+          "devas-io-api-2"
+        ]
+      }
+    }
+  }
+}
